@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SaveStateApp</string>
+    <string name="displayName">Название контакта</string>
+    <string name="number">Номер телефона</string>
+    <string name="titleText">Контакты</string>
+    <string name="noNameText">No name</string>
+    <string name="noNunberText">No number</string>
+</resources>
