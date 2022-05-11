@@ -4,4 +4,4 @@
 Реализованы CRUD операции для контакта, удаление всех сохраненных контактов и восстановление. 
 Так же есть возможность сохранять список в файл.	
 
-**Технологии:** MVVM, Room, SharedPreferences, Content provider, Coroutines.
+Стек: MVVM, Room, SharedPreferences, Content provider, Coroutines.
